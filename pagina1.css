@@ -1,0 +1,74 @@
+.container{ 
+ color: black; 
+ display: flex ; 
+ padding: 50px; 
+ background-color: rgb(117, 44, 39);
+ }  
+ .inline{
+    margin-left: 50px; 
+    display: inline; 
+    color: black;  
+    padding: 15px;
+    font-size: 20px;
+    transition: all 1s;
+  
+ }  
+ .container :hover{
+    background: #c6a11a;
+    color: #040404;
+    border-radius: 16px; 
+
+ } 
+ h2{
+    text-align: center; 
+    color: white; 
+    margin-top: 0%;
+ } 
+ .contruct{
+    background-color: #040404; 
+    margin-bottom: 0%; 
+    border: 2px solid white;
+    
+ } 
+ img{ 
+    padding-left: 600px;
+    height: 40vh;  
+    width: 40vh;
+    
+    
+ } 
+ h3{
+    color: white; 
+    text-align: center;
+ } 
+ p{ 
+    color: white; 
+    text-align: center;  
+    font-size: 17px;
+    
+ } 
+ .projetodois{
+    background-color: #2c2b2b; 
+    margin-top: 0%; 
+    border: 2px solid white;
+ }
+ .projetotres{
+    background-color: #4c4b4b; 
+    border: 2px solid white;
+
+ }
+ a{
+    color: #040404;
+ }
+ footer {
+    text-align: center;
+    color: black;
+    border-top: 2px solid black;
+ }
+
+ footer p {
+    text-align: center;
+ } 
+ .direitos{
+    color: #040404;
+ }
